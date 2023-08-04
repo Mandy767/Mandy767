@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mandar Dighe</h1>
 <h3 align="center">Web Developer</h3>
 
+- 🔭 I'm currently working **on web dev projects**
+
 - 🌱 I’m currently learning **web development Frameworks and Machine Learning**
 
 - 📫 How to reach me **mandardighe6@gmail.com**
