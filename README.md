@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working **on web dev projects**
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **mandardighe6@gmail.com**
 
